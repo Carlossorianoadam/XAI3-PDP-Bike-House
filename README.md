@@ -13,7 +13,7 @@ This repository contains the R code and the graphs for the analysis with Partial
 
 ## Authors
 
-Carlos Soriano Adam
+Carlos Soriano Adam\n
 Pol Llobet Valls
 Federico Romiti
 Universidad Politécnica de Valencia — XAI3  
